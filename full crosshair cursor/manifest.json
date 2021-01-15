@@ -14,5 +14,6 @@
            "js": [ "app.js" ],
            "css": [ "style.css" ]
        }
-   ]
+   ],
+   "permissions": ["activeTab"]
 }
